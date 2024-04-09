@@ -1,4 +1,4 @@
-# Snakes-and-Ladders-Game
+# Ladders-Snakes-Monopoly-Game
  C++ Game
 # Description
 In this project we are going to build a simple game application that is a mixture between the 
